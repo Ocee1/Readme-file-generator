@@ -1,0 +1,11 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "Readme generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ocee",
+  "license": "ISC"
+}
