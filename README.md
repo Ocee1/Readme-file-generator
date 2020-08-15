@@ -1,14 +1,14 @@
-#Project Title
-  ###Readme Tool.
-###INSTRUCTIONS
+# Project Title
+  ### Readme Tool.
+### INSTRUCTIONS
   Fork this repo and clone to your machine.
-###PREREQUISITES
+### PREREQUISITES
   To run this app ensure you have node.js installed on your computer
-###INSTALLATION
+### INSTALLATION
   Clone repo and run locally
-###USAGE
+### USAGE
   Run "npm start"
-###BUILT WITH
+### BUILT WITH
   Node.js
-###AUTHOR
+### AUTHOR
   Ochapa James
