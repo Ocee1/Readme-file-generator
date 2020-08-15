@@ -1,5 +1,4 @@
-# Project Title
-  ### Readme Tool.
+# Project Title - Readme Tool.
 ### INSTRUCTIONS
   Fork this repo and clone to your machine.
 ### PREREQUISITES

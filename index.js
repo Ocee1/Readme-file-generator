@@ -8,7 +8,7 @@ const rl = readline.createInterface({
 
 rl.question('What is your project title?\n', (title) => {
     
-    fs.writeFile('README.md', '#Project Title\n  ###' + title, (err) => {
+    fs.writeFile('README.md', '# Project Title - ' + title, (err) => {
         if (err) {
             console.log(err);
         }
