@@ -1,14 +1,14 @@
-Project Title
-  CLI Readme tool
-INSTRUCTIONS
-  Clone this repository and follow the prompt to generate a readme file.
-PREREQUISITES
-  Have node.js installed on your machine.
-INSTALLATION
-  Fork repo and clone to your machine
-USAGE
-  run "npm start" to launch
-BUILT WITH
+#Project Title
+  ###Readme Tool.
+###INSTRUCTIONS
+  Fork this repo and clone to your machine.
+###PREREQUISITES
+  To run this app ensure you have node.js installed on your computer
+###INSTALLATION
+  Clone repo and run locally
+###USAGE
+  Run "npm start"
+###BUILT WITH
   Node.js
-AUTHOR
+###AUTHOR
   Ochapa James
